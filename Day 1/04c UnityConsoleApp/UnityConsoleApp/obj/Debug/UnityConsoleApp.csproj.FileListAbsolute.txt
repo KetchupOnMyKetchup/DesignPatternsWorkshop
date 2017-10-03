@@ -1,0 +1,16 @@
+c:\users\crtenn\documents\visual studio 2017\Projects\UnityConsoleApp\UnityConsoleApp\bin\Debug\UnityConsoleApp.exe.config
+c:\users\crtenn\documents\visual studio 2017\Projects\UnityConsoleApp\UnityConsoleApp\bin\Debug\UnityConsoleApp.exe
+c:\users\crtenn\documents\visual studio 2017\Projects\UnityConsoleApp\UnityConsoleApp\bin\Debug\UnityConsoleApp.pdb
+c:\users\crtenn\documents\visual studio 2017\Projects\UnityConsoleApp\UnityConsoleApp\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+c:\users\crtenn\documents\visual studio 2017\Projects\UnityConsoleApp\UnityConsoleApp\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+c:\users\crtenn\documents\visual studio 2017\Projects\UnityConsoleApp\UnityConsoleApp\bin\Debug\Microsoft.Practices.Unity.dll
+c:\users\crtenn\documents\visual studio 2017\Projects\UnityConsoleApp\UnityConsoleApp\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+c:\users\crtenn\documents\visual studio 2017\Projects\UnityConsoleApp\UnityConsoleApp\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+c:\users\crtenn\documents\visual studio 2017\Projects\UnityConsoleApp\UnityConsoleApp\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+c:\users\crtenn\documents\visual studio 2017\Projects\UnityConsoleApp\UnityConsoleApp\bin\Debug\Microsoft.Practices.Unity.xml
+c:\users\crtenn\documents\visual studio 2017\Projects\UnityConsoleApp\UnityConsoleApp\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+c:\users\crtenn\documents\visual studio 2017\Projects\UnityConsoleApp\UnityConsoleApp\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+c:\users\crtenn\documents\visual studio 2017\Projects\UnityConsoleApp\UnityConsoleApp\obj\Debug\UnityConsoleApp.csprojResolveAssemblyReference.cache
+c:\users\crtenn\documents\visual studio 2017\Projects\UnityConsoleApp\UnityConsoleApp\obj\Debug\UnityConsoleApp.csproj.CoreCompileInputs.cache
+c:\users\crtenn\documents\visual studio 2017\Projects\UnityConsoleApp\UnityConsoleApp\obj\Debug\UnityConsoleApp.exe
+c:\users\crtenn\documents\visual studio 2017\Projects\UnityConsoleApp\UnityConsoleApp\obj\Debug\UnityConsoleApp.pdb

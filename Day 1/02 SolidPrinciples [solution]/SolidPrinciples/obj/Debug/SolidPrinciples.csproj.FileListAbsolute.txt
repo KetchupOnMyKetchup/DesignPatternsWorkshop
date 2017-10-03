@@ -1,0 +1,7 @@
+c:\users\crtenn\documents\visual studio 2017\Projects\SolidPrinciples\SolidPrinciples\bin\Debug\SolidPrinciples.exe.config
+c:\users\crtenn\documents\visual studio 2017\Projects\SolidPrinciples\SolidPrinciples\bin\Debug\SolidPrinciples.exe
+c:\users\crtenn\documents\visual studio 2017\Projects\SolidPrinciples\SolidPrinciples\bin\Debug\SolidPrinciples.pdb
+c:\users\crtenn\documents\visual studio 2017\Projects\SolidPrinciples\SolidPrinciples\obj\Debug\SolidPrinciples.csprojResolveAssemblyReference.cache
+c:\users\crtenn\documents\visual studio 2017\Projects\SolidPrinciples\SolidPrinciples\obj\Debug\SolidPrinciples.csproj.CoreCompileInputs.cache
+c:\users\crtenn\documents\visual studio 2017\Projects\SolidPrinciples\SolidPrinciples\obj\Debug\SolidPrinciples.exe
+c:\users\crtenn\documents\visual studio 2017\Projects\SolidPrinciples\SolidPrinciples\obj\Debug\SolidPrinciples.pdb

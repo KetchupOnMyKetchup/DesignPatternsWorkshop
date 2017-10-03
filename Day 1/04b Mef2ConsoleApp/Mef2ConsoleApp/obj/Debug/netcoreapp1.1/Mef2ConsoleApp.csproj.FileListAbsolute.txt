@@ -1,0 +1,10 @@
+c:\users\crtenn\documents\visual studio 2017\Projects\Mef2ConsoleApp\Mef2ConsoleApp\bin\Debug\netcoreapp1.1\Mef2ConsoleApp.deps.json
+c:\users\crtenn\documents\visual studio 2017\Projects\Mef2ConsoleApp\Mef2ConsoleApp\bin\Debug\netcoreapp1.1\Mef2ConsoleApp.runtimeconfig.json
+c:\users\crtenn\documents\visual studio 2017\Projects\Mef2ConsoleApp\Mef2ConsoleApp\bin\Debug\netcoreapp1.1\Mef2ConsoleApp.runtimeconfig.dev.json
+c:\users\crtenn\documents\visual studio 2017\Projects\Mef2ConsoleApp\Mef2ConsoleApp\bin\Debug\netcoreapp1.1\Mef2ConsoleApp.dll
+c:\users\crtenn\documents\visual studio 2017\Projects\Mef2ConsoleApp\Mef2ConsoleApp\obj\Debug\netcoreapp1.1\Mef2ConsoleApp.csprojResolveAssemblyReference.cache
+c:\users\crtenn\documents\visual studio 2017\Projects\Mef2ConsoleApp\Mef2ConsoleApp\obj\Debug\netcoreapp1.1\Mef2ConsoleApp.csproj.CoreCompileInputs.cache
+c:\users\crtenn\documents\visual studio 2017\Projects\Mef2ConsoleApp\Mef2ConsoleApp\obj\Debug\netcoreapp1.1\Mef2ConsoleApp.AssemblyInfo.cs
+c:\users\crtenn\documents\visual studio 2017\Projects\Mef2ConsoleApp\Mef2ConsoleApp\bin\Debug\netcoreapp1.1\Mef2ConsoleApp.pdb
+c:\users\crtenn\documents\visual studio 2017\Projects\Mef2ConsoleApp\Mef2ConsoleApp\obj\Debug\netcoreapp1.1\Mef2ConsoleApp.dll
+c:\users\crtenn\documents\visual studio 2017\Projects\Mef2ConsoleApp\Mef2ConsoleApp\obj\Debug\netcoreapp1.1\Mef2ConsoleApp.pdb

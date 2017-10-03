@@ -1,0 +1,25 @@
+E:\My IP\DI\ChalkTalk\Demo\ServiceLocatorPattern\ServiceLocatorPattern\bin\Debug\ServiceLocatorPattern.exe.config
+E:\My IP\DI\ChalkTalk\Demo\ServiceLocatorPattern\ServiceLocatorPattern\bin\Debug\ServiceLocatorPattern.exe
+E:\My IP\DI\ChalkTalk\Demo\ServiceLocatorPattern\ServiceLocatorPattern\bin\Debug\ServiceLocatorPattern.pdb
+E:\My IP\DI\ChalkTalk\Demo\ServiceLocatorPattern\ServiceLocatorPattern\obj\Debug\ServiceLocatorPattern.csprojResolveAssemblyReference.cache
+E:\My IP\DI\ChalkTalk\Demo\ServiceLocatorPattern\ServiceLocatorPattern\obj\Debug\ServiceLocatorPattern.exe
+E:\My IP\DI\ChalkTalk\Demo\ServiceLocatorPattern\ServiceLocatorPattern\obj\Debug\ServiceLocatorPattern.pdb
+D:\My IP\DI\ChalkTalk\Demo\ServiceLocatorPattern\ServiceLocatorPattern\bin\Debug\ServiceLocatorPattern.exe.config
+D:\My IP\DI\ChalkTalk\Demo\ServiceLocatorPattern\ServiceLocatorPattern\obj\Debug\ServiceLocatorPattern.exe
+D:\My IP\DI\ChalkTalk\Demo\ServiceLocatorPattern\ServiceLocatorPattern\obj\Debug\ServiceLocatorPattern.pdb
+D:\My IP\DI\ChalkTalk\Demo\ServiceLocatorPattern\ServiceLocatorPattern\bin\Debug\ServiceLocatorPattern.exe
+D:\My IP\DI\ChalkTalk\Demo\ServiceLocatorPattern\ServiceLocatorPattern\bin\Debug\ServiceLocatorPattern.pdb
+D:\My IP\DI\ChalkTalk\Demo\ServiceLocatorPattern\ServiceLocatorPattern\obj\Debug\ServiceLocatorPattern.csprojResolveAssemblyReference.cache
+D:\My IP\_Modern Development\DI\ChalkTalk\Demo\ServiceLocatorPattern\ServiceLocatorPattern\bin\Debug\ServiceLocatorPattern.exe.config
+D:\My IP\_Modern Development\DI\ChalkTalk\Demo\ServiceLocatorPattern\ServiceLocatorPattern\obj\Debug\ServiceLocatorPattern.exe
+D:\My IP\_Modern Development\DI\ChalkTalk\Demo\ServiceLocatorPattern\ServiceLocatorPattern\obj\Debug\ServiceLocatorPattern.pdb
+D:\My IP\_Modern Development\DI\ChalkTalk\Demo\ServiceLocatorPattern\ServiceLocatorPattern\bin\Debug\ServiceLocatorPattern.exe
+D:\My IP\_Modern Development\DI\ChalkTalk\Demo\ServiceLocatorPattern\ServiceLocatorPattern\bin\Debug\ServiceLocatorPattern.pdb
+D:\My IP\_Modern Development\DI\ChalkTalk\Demo\ServiceLocatorPattern\ServiceLocatorPattern\obj\Debug\ServiceLocatorPattern.csprojResolveAssemblyReference.cache
+C:\Users\crtenn\Google Drive\Microsoft\Important Slides from other teammates\Modern Developer\ModernDevelopmentBootcamp-DependencyInjection\ServiceLocatorPattern\ServiceLocatorPattern\bin\Debug\ServiceLocatorPattern.exe.config
+C:\Users\crtenn\Google Drive\Microsoft\Important Slides from other teammates\Modern Developer\ModernDevelopmentBootcamp-DependencyInjection\ServiceLocatorPattern\ServiceLocatorPattern\bin\Debug\ServiceLocatorPattern.exe
+C:\Users\crtenn\Google Drive\Microsoft\Important Slides from other teammates\Modern Developer\ModernDevelopmentBootcamp-DependencyInjection\ServiceLocatorPattern\ServiceLocatorPattern\bin\Debug\ServiceLocatorPattern.pdb
+C:\Users\crtenn\Google Drive\Microsoft\Important Slides from other teammates\Modern Developer\ModernDevelopmentBootcamp-DependencyInjection\ServiceLocatorPattern\ServiceLocatorPattern\obj\Debug\ServiceLocatorPattern.csprojResolveAssemblyReference.cache
+C:\Users\crtenn\Google Drive\Microsoft\Important Slides from other teammates\Modern Developer\ModernDevelopmentBootcamp-DependencyInjection\ServiceLocatorPattern\ServiceLocatorPattern\obj\Debug\ServiceLocatorPattern.csproj.CoreCompileInputs.cache
+C:\Users\crtenn\Google Drive\Microsoft\Important Slides from other teammates\Modern Developer\ModernDevelopmentBootcamp-DependencyInjection\ServiceLocatorPattern\ServiceLocatorPattern\obj\Debug\ServiceLocatorPattern.exe
+C:\Users\crtenn\Google Drive\Microsoft\Important Slides from other teammates\Modern Developer\ModernDevelopmentBootcamp-DependencyInjection\ServiceLocatorPattern\ServiceLocatorPattern\obj\Debug\ServiceLocatorPattern.pdb

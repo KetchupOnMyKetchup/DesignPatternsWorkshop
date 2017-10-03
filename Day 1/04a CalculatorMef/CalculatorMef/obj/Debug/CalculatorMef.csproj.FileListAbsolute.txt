@@ -1,0 +1,7 @@
+c:\users\crtenn\documents\visual studio 2017\Projects\CalculatorMef\CalculatorMef\bin\Debug\CalculatorMef.exe.config
+c:\users\crtenn\documents\visual studio 2017\Projects\CalculatorMef\CalculatorMef\bin\Debug\CalculatorMef.exe
+c:\users\crtenn\documents\visual studio 2017\Projects\CalculatorMef\CalculatorMef\bin\Debug\CalculatorMef.pdb
+c:\users\crtenn\documents\visual studio 2017\Projects\CalculatorMef\CalculatorMef\obj\Debug\CalculatorMef.csproj.CoreCompileInputs.cache
+c:\users\crtenn\documents\visual studio 2017\Projects\CalculatorMef\CalculatorMef\obj\Debug\CalculatorMef.exe
+c:\users\crtenn\documents\visual studio 2017\Projects\CalculatorMef\CalculatorMef\obj\Debug\CalculatorMef.pdb
+c:\users\crtenn\documents\visual studio 2017\Projects\CalculatorMef\CalculatorMef\obj\Debug\CalculatorMef.csprojResolveAssemblyReference.cache

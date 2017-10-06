@@ -11,11 +11,7 @@ namespace Observer
 
         private static void Main(string[] args)
         {
-            var _observerClient = new ObserverClient();
-            _observerClient.RunClient();
 
-            Console.WriteLine("Press any key to continue");
-            Console.ReadLine();
         }
 
         public class ObserverClient 

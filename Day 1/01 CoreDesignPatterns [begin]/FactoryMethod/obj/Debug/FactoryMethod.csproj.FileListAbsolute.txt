@@ -15,3 +15,4 @@ C:\Design Patterns Workshop\Day 1\01 CoreDesignPatterns [begin]\FactoryMethod\bi
 C:\Design Patterns Workshop\Day 1\01 CoreDesignPatterns [begin]\FactoryMethod\obj\Debug\FactoryMethod.csproj.CoreCompileInputs.cache
 C:\Design Patterns Workshop\Day 1\01 CoreDesignPatterns [begin]\FactoryMethod\obj\Debug\FactoryMethod.exe
 C:\Design Patterns Workshop\Day 1\01 CoreDesignPatterns [begin]\FactoryMethod\obj\Debug\FactoryMethod.pdb
+C:\Design Patterns Workshop\Day 1\01 CoreDesignPatterns [begin]\FactoryMethod\obj\Debug\FactoryMethod.csprojResolveAssemblyReference.cache

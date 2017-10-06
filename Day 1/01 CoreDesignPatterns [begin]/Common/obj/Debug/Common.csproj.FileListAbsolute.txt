@@ -15,4 +15,3 @@ C:\Design Patterns Workshop\Day 1\01 CoreDesignPatterns [begin]\Common\bin\Debug
 C:\Design Patterns Workshop\Day 1\01 CoreDesignPatterns [begin]\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
 C:\Design Patterns Workshop\Day 1\01 CoreDesignPatterns [begin]\Common\obj\Debug\Common.dll
 C:\Design Patterns Workshop\Day 1\01 CoreDesignPatterns [begin]\Common\obj\Debug\Common.pdb
-C:\Design Patterns Workshop\Day 1\01 CoreDesignPatterns [begin]\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache

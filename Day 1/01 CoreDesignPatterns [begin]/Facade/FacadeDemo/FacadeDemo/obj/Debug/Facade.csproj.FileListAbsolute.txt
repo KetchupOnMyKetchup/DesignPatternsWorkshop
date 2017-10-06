@@ -12,7 +12,6 @@ C:\Users\crtenn\Documents\Visual Studio 2017\Projects\CoreDesignPatterns\Facade\
 C:\Users\crtenn\Documents\Visual Studio 2017\Projects\CoreDesignPatterns\Facade\FacadeDemo\FacadeDemo\obj\Debug\FacadeDemo.pdb
 C:\Design Patterns Workshop\Day 1\01 CoreDesignPatterns [begin]\Facade\FacadeDemo\FacadeDemo\bin\Debug\FacadeDemo.exe
 C:\Design Patterns Workshop\Day 1\01 CoreDesignPatterns [begin]\Facade\FacadeDemo\FacadeDemo\bin\Debug\FacadeDemo.pdb
-C:\Design Patterns Workshop\Day 1\01 CoreDesignPatterns [begin]\Facade\FacadeDemo\FacadeDemo\obj\Debug\Facade.csprojResolveAssemblyReference.cache
 C:\Design Patterns Workshop\Day 1\01 CoreDesignPatterns [begin]\Facade\FacadeDemo\FacadeDemo\obj\Debug\Facade.csproj.CoreCompileInputs.cache
 C:\Design Patterns Workshop\Day 1\01 CoreDesignPatterns [begin]\Facade\FacadeDemo\FacadeDemo\obj\Debug\FacadeDemo.exe
 C:\Design Patterns Workshop\Day 1\01 CoreDesignPatterns [begin]\Facade\FacadeDemo\FacadeDemo\obj\Debug\FacadeDemo.pdb

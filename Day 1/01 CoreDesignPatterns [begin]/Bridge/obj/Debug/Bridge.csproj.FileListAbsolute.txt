@@ -1,0 +1,13 @@
+c:\users\crtenn\documents\visual studio 2017\Projects\CoreDesignPatterns\Bridge\bin\Debug\Bridge.exe.config
+c:\users\crtenn\documents\visual studio 2017\Projects\CoreDesignPatterns\Bridge\bin\Debug\Bridge.exe
+c:\users\crtenn\documents\visual studio 2017\Projects\CoreDesignPatterns\Bridge\bin\Debug\Bridge.pdb
+c:\users\crtenn\documents\visual studio 2017\Projects\CoreDesignPatterns\Bridge\obj\Debug\Bridge.csproj.CoreCompileInputs.cache
+c:\users\crtenn\documents\visual studio 2017\Projects\CoreDesignPatterns\Bridge\obj\Debug\Bridge.exe
+c:\users\crtenn\documents\visual studio 2017\Projects\CoreDesignPatterns\Bridge\obj\Debug\Bridge.pdb
+C:\Users\crtenn\Documents\Visual Studio 2017\Projects\CoreDesignPatterns\Bridge\obj\Debug\Bridge.csprojResolveAssemblyReference.cache
+C:\Design Patterns Workshop\Day 1\01 CoreDesignPatterns [begin]\Bridge\bin\Debug\Bridge.exe.config
+C:\Design Patterns Workshop\Day 1\01 CoreDesignPatterns [begin]\Bridge\bin\Debug\Bridge.exe
+C:\Design Patterns Workshop\Day 1\01 CoreDesignPatterns [begin]\Bridge\bin\Debug\Bridge.pdb
+C:\Design Patterns Workshop\Day 1\01 CoreDesignPatterns [begin]\Bridge\obj\Debug\Bridge.csproj.CoreCompileInputs.cache
+C:\Design Patterns Workshop\Day 1\01 CoreDesignPatterns [begin]\Bridge\obj\Debug\Bridge.exe
+C:\Design Patterns Workshop\Day 1\01 CoreDesignPatterns [begin]\Bridge\obj\Debug\Bridge.pdb

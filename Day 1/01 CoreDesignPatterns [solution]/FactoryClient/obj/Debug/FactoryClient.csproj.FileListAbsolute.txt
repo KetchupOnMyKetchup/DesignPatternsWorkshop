@@ -1,0 +1,18 @@
+C:\Users\crtenn\Google Drive\Microsoft\2017-2018 Q1 Work\05 OCC Design Patterns\Day 1\01 Core Design Patterns Demo\FactoryClient\bin\Debug\FactoryClient.exe.config
+C:\Users\crtenn\Google Drive\Microsoft\2017-2018 Q1 Work\05 OCC Design Patterns\Day 1\01 Core Design Patterns Demo\FactoryClient\bin\Debug\FactoryClient.exe
+C:\Users\crtenn\Google Drive\Microsoft\2017-2018 Q1 Work\05 OCC Design Patterns\Day 1\01 Core Design Patterns Demo\FactoryClient\bin\Debug\FactoryClient.pdb
+C:\Users\crtenn\Google Drive\Microsoft\2017-2018 Q1 Work\05 OCC Design Patterns\Day 1\01 Core Design Patterns Demo\FactoryClient\bin\Debug\FactoryMethod.exe
+C:\Users\crtenn\Google Drive\Microsoft\2017-2018 Q1 Work\05 OCC Design Patterns\Day 1\01 Core Design Patterns Demo\FactoryClient\bin\Debug\FactoryMethod.pdb
+C:\Users\crtenn\Google Drive\Microsoft\2017-2018 Q1 Work\05 OCC Design Patterns\Day 1\01 Core Design Patterns Demo\FactoryClient\obj\Debug\FactoryClient.csprojResolveAssemblyReference.cache
+C:\Users\crtenn\Google Drive\Microsoft\2017-2018 Q1 Work\05 OCC Design Patterns\Day 1\01 Core Design Patterns Demo\FactoryClient\obj\Debug\FactoryClient.csproj.CoreCompileInputs.cache
+C:\Users\crtenn\Google Drive\Microsoft\2017-2018 Q1 Work\05 OCC Design Patterns\Day 1\01 Core Design Patterns Demo\FactoryClient\obj\Debug\FactoryClient.exe
+C:\Users\crtenn\Google Drive\Microsoft\2017-2018 Q1 Work\05 OCC Design Patterns\Day 1\01 Core Design Patterns Demo\FactoryClient\obj\Debug\FactoryClient.pdb
+C:\Users\crtenn\Documents\Visual Studio 2017\Projects\CoreDesignPatterns\FactoryClient\bin\Debug\FactoryClient.exe.config
+C:\Users\crtenn\Documents\Visual Studio 2017\Projects\CoreDesignPatterns\FactoryClient\bin\Debug\FactoryClient.exe
+C:\Users\crtenn\Documents\Visual Studio 2017\Projects\CoreDesignPatterns\FactoryClient\bin\Debug\FactoryClient.pdb
+C:\Users\crtenn\Documents\Visual Studio 2017\Projects\CoreDesignPatterns\FactoryClient\bin\Debug\FactoryMethod.exe
+C:\Users\crtenn\Documents\Visual Studio 2017\Projects\CoreDesignPatterns\FactoryClient\bin\Debug\FactoryMethod.pdb
+C:\Users\crtenn\Documents\Visual Studio 2017\Projects\CoreDesignPatterns\FactoryClient\obj\Debug\FactoryClient.csprojResolveAssemblyReference.cache
+C:\Users\crtenn\Documents\Visual Studio 2017\Projects\CoreDesignPatterns\FactoryClient\obj\Debug\FactoryClient.csproj.CoreCompileInputs.cache
+C:\Users\crtenn\Documents\Visual Studio 2017\Projects\CoreDesignPatterns\FactoryClient\obj\Debug\FactoryClient.exe
+C:\Users\crtenn\Documents\Visual Studio 2017\Projects\CoreDesignPatterns\FactoryClient\obj\Debug\FactoryClient.pdb

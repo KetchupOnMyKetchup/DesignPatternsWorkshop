@@ -1,0 +1,12 @@
+C:\Users\crtenn\Google Drive\Microsoft\2017-2018 Q1 Work\05 OCC Design Patterns\Day 1\01 Core Design Patterns Demo\Common\bin\Debug\Common.dll
+C:\Users\crtenn\Google Drive\Microsoft\2017-2018 Q1 Work\05 OCC Design Patterns\Day 1\01 Core Design Patterns Demo\Common\bin\Debug\Common.pdb
+C:\Users\crtenn\Google Drive\Microsoft\2017-2018 Q1 Work\05 OCC Design Patterns\Day 1\01 Core Design Patterns Demo\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+C:\Users\crtenn\Google Drive\Microsoft\2017-2018 Q1 Work\05 OCC Design Patterns\Day 1\01 Core Design Patterns Demo\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\crtenn\Google Drive\Microsoft\2017-2018 Q1 Work\05 OCC Design Patterns\Day 1\01 Core Design Patterns Demo\Common\obj\Debug\Common.dll
+C:\Users\crtenn\Google Drive\Microsoft\2017-2018 Q1 Work\05 OCC Design Patterns\Day 1\01 Core Design Patterns Demo\Common\obj\Debug\Common.pdb
+C:\Users\crtenn\Documents\Visual Studio 2017\Projects\CoreDesignPatterns\Common\bin\Debug\Common.dll
+C:\Users\crtenn\Documents\Visual Studio 2017\Projects\CoreDesignPatterns\Common\bin\Debug\Common.pdb
+C:\Users\crtenn\Documents\Visual Studio 2017\Projects\CoreDesignPatterns\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+C:\Users\crtenn\Documents\Visual Studio 2017\Projects\CoreDesignPatterns\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\crtenn\Documents\Visual Studio 2017\Projects\CoreDesignPatterns\Common\obj\Debug\Common.dll
+C:\Users\crtenn\Documents\Visual Studio 2017\Projects\CoreDesignPatterns\Common\obj\Debug\Common.pdb

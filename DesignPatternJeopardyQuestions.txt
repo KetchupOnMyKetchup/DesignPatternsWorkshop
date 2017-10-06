@@ -1,0 +1,9 @@
+1. Name the 3 categories of design patterns.
+Creational, Structural, Behavioral
+ 
+2. This code is for which design pattern? 
+Singleton
+
+3. Name 3 highly utilized design patterns
+
+4. 

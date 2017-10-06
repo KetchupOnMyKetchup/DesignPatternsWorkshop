@@ -1,0 +1,12 @@
+C:\Users\crtenn\Documents\Visual Studio 2017\Projects\CoreDesignPatterns\Visitor\bin\Debug\Visitor.exe.config
+C:\Users\crtenn\Documents\Visual Studio 2017\Projects\CoreDesignPatterns\Visitor\bin\Debug\Visitor.exe
+C:\Users\crtenn\Documents\Visual Studio 2017\Projects\CoreDesignPatterns\Visitor\bin\Debug\Visitor.pdb
+C:\Users\crtenn\Documents\Visual Studio 2017\Projects\CoreDesignPatterns\Visitor\obj\Debug\Visitor.csproj.CoreCompileInputs.cache
+C:\Users\crtenn\Documents\Visual Studio 2017\Projects\CoreDesignPatterns\Visitor\obj\Debug\Visitor.exe
+C:\Users\crtenn\Documents\Visual Studio 2017\Projects\CoreDesignPatterns\Visitor\obj\Debug\Visitor.pdb
+C:\Design Patterns Workshop\Day 1\01 CoreDesignPatterns [begin]\Visitor\bin\Debug\Visitor.exe.config
+C:\Design Patterns Workshop\Day 1\01 CoreDesignPatterns [begin]\Visitor\bin\Debug\Visitor.exe
+C:\Design Patterns Workshop\Day 1\01 CoreDesignPatterns [begin]\Visitor\bin\Debug\Visitor.pdb
+C:\Design Patterns Workshop\Day 1\01 CoreDesignPatterns [begin]\Visitor\obj\Debug\Visitor.csproj.CoreCompileInputs.cache
+C:\Design Patterns Workshop\Day 1\01 CoreDesignPatterns [begin]\Visitor\obj\Debug\Visitor.exe
+C:\Design Patterns Workshop\Day 1\01 CoreDesignPatterns [begin]\Visitor\obj\Debug\Visitor.pdb

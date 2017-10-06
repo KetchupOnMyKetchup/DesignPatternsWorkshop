@@ -1,0 +1,12 @@
+C:\Users\crtenn\Documents\Visual Studio 2017\Projects\CoreDesignPatterns\Proxy\bin\Debug\Proxy.exe.config
+C:\Users\crtenn\Documents\Visual Studio 2017\Projects\CoreDesignPatterns\Proxy\bin\Debug\Proxy.exe
+C:\Users\crtenn\Documents\Visual Studio 2017\Projects\CoreDesignPatterns\Proxy\bin\Debug\Proxy.pdb
+C:\Users\crtenn\Documents\Visual Studio 2017\Projects\CoreDesignPatterns\Proxy\obj\Debug\Proxy.csproj.CoreCompileInputs.cache
+C:\Users\crtenn\Documents\Visual Studio 2017\Projects\CoreDesignPatterns\Proxy\obj\Debug\Proxy.exe
+C:\Users\crtenn\Documents\Visual Studio 2017\Projects\CoreDesignPatterns\Proxy\obj\Debug\Proxy.pdb
+C:\Design Patterns Workshop\Day 1\01 CoreDesignPatterns [begin]\Proxy\bin\Debug\Proxy.exe.config
+C:\Design Patterns Workshop\Day 1\01 CoreDesignPatterns [begin]\Proxy\bin\Debug\Proxy.exe
+C:\Design Patterns Workshop\Day 1\01 CoreDesignPatterns [begin]\Proxy\bin\Debug\Proxy.pdb
+C:\Design Patterns Workshop\Day 1\01 CoreDesignPatterns [begin]\Proxy\obj\Debug\Proxy.csproj.CoreCompileInputs.cache
+C:\Design Patterns Workshop\Day 1\01 CoreDesignPatterns [begin]\Proxy\obj\Debug\Proxy.exe
+C:\Design Patterns Workshop\Day 1\01 CoreDesignPatterns [begin]\Proxy\obj\Debug\Proxy.pdb

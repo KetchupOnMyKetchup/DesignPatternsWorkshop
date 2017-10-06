@@ -1,0 +1,6 @@
+C:\Users\crtenn\Documents\Visual Studio 2017\Projects\CoreDesignPatterns\Flyweight\bin\Debug\Flyweight.exe.config
+C:\Users\crtenn\Documents\Visual Studio 2017\Projects\CoreDesignPatterns\Flyweight\bin\Debug\Flyweight.exe
+C:\Users\crtenn\Documents\Visual Studio 2017\Projects\CoreDesignPatterns\Flyweight\bin\Debug\Flyweight.pdb
+C:\Users\crtenn\Documents\Visual Studio 2017\Projects\CoreDesignPatterns\Flyweight\obj\Debug\Flyweight.csproj.CoreCompileInputs.cache
+C:\Users\crtenn\Documents\Visual Studio 2017\Projects\CoreDesignPatterns\Flyweight\obj\Debug\Flyweight.exe
+C:\Users\crtenn\Documents\Visual Studio 2017\Projects\CoreDesignPatterns\Flyweight\obj\Debug\Flyweight.pdb

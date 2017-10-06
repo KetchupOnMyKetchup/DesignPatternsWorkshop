@@ -1,0 +1,20 @@
+C:\Users\crtenn\Google Drive\Microsoft\2017-2018 Q1 Work\05 OCC Design Patterns\Day 1\01 Core Design Patterns Demo\Singleton\bin\Debug\Singleton.exe.config
+C:\Users\crtenn\Google Drive\Microsoft\2017-2018 Q1 Work\05 OCC Design Patterns\Day 1\01 Core Design Patterns Demo\Singleton\bin\Debug\Singleton.exe
+C:\Users\crtenn\Google Drive\Microsoft\2017-2018 Q1 Work\05 OCC Design Patterns\Day 1\01 Core Design Patterns Demo\Singleton\bin\Debug\Singleton.pdb
+C:\Users\crtenn\Google Drive\Microsoft\2017-2018 Q1 Work\05 OCC Design Patterns\Day 1\01 Core Design Patterns Demo\Singleton\obj\Debug\Singleton.csprojResolveAssemblyReference.cache
+C:\Users\crtenn\Google Drive\Microsoft\2017-2018 Q1 Work\05 OCC Design Patterns\Day 1\01 Core Design Patterns Demo\Singleton\obj\Debug\Singleton.csproj.CoreCompileInputs.cache
+C:\Users\crtenn\Google Drive\Microsoft\2017-2018 Q1 Work\05 OCC Design Patterns\Day 1\01 Core Design Patterns Demo\Singleton\obj\Debug\Singleton.exe
+C:\Users\crtenn\Google Drive\Microsoft\2017-2018 Q1 Work\05 OCC Design Patterns\Day 1\01 Core Design Patterns Demo\Singleton\obj\Debug\Singleton.pdb
+c:\users\crtenn\documents\visual studio 2017\Projects\CoreDesignPatterns\Singleton\bin\Debug\Singleton.exe.config
+c:\users\crtenn\documents\visual studio 2017\Projects\CoreDesignPatterns\Singleton\bin\Debug\Singleton.exe
+c:\users\crtenn\documents\visual studio 2017\Projects\CoreDesignPatterns\Singleton\bin\Debug\Singleton.pdb
+c:\users\crtenn\documents\visual studio 2017\Projects\CoreDesignPatterns\Singleton\obj\Debug\Singleton.csproj.CoreCompileInputs.cache
+c:\users\crtenn\documents\visual studio 2017\Projects\CoreDesignPatterns\Singleton\obj\Debug\Singleton.exe
+c:\users\crtenn\documents\visual studio 2017\Projects\CoreDesignPatterns\Singleton\obj\Debug\Singleton.pdb
+C:\Users\crtenn\Documents\Visual Studio 2017\Projects\CoreDesignPatterns\Singleton\obj\Debug\Singleton.csprojResolveAssemblyReference.cache
+C:\Design Patterns Workshop\Day 1\01 CoreDesignPatterns [begin]\Singleton\bin\Debug\Singleton.exe.config
+C:\Design Patterns Workshop\Day 1\01 CoreDesignPatterns [begin]\Singleton\bin\Debug\Singleton.exe
+C:\Design Patterns Workshop\Day 1\01 CoreDesignPatterns [begin]\Singleton\bin\Debug\Singleton.pdb
+C:\Design Patterns Workshop\Day 1\01 CoreDesignPatterns [begin]\Singleton\obj\Debug\Singleton.csproj.CoreCompileInputs.cache
+C:\Design Patterns Workshop\Day 1\01 CoreDesignPatterns [begin]\Singleton\obj\Debug\Singleton.exe
+C:\Design Patterns Workshop\Day 1\01 CoreDesignPatterns [begin]\Singleton\obj\Debug\Singleton.pdb

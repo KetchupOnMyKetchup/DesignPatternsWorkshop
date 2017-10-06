@@ -1,0 +1,12 @@
+C:\Users\crtenn\Google Drive\Microsoft\2017-2018 Q1 Work\05 OCC Design Patterns\Day 1\01 Core Design Patterns Demo\Facade\FacadeDemo\FacadeDemo\bin\Debug\FacadeDemo.exe
+C:\Users\crtenn\Google Drive\Microsoft\2017-2018 Q1 Work\05 OCC Design Patterns\Day 1\01 Core Design Patterns Demo\Facade\FacadeDemo\FacadeDemo\bin\Debug\FacadeDemo.pdb
+C:\Users\crtenn\Google Drive\Microsoft\2017-2018 Q1 Work\05 OCC Design Patterns\Day 1\01 Core Design Patterns Demo\Facade\FacadeDemo\FacadeDemo\obj\Debug\Facade.csprojResolveAssemblyReference.cache
+C:\Users\crtenn\Google Drive\Microsoft\2017-2018 Q1 Work\05 OCC Design Patterns\Day 1\01 Core Design Patterns Demo\Facade\FacadeDemo\FacadeDemo\obj\Debug\Facade.csproj.CoreCompileInputs.cache
+C:\Users\crtenn\Google Drive\Microsoft\2017-2018 Q1 Work\05 OCC Design Patterns\Day 1\01 Core Design Patterns Demo\Facade\FacadeDemo\FacadeDemo\obj\Debug\FacadeDemo.exe
+C:\Users\crtenn\Google Drive\Microsoft\2017-2018 Q1 Work\05 OCC Design Patterns\Day 1\01 Core Design Patterns Demo\Facade\FacadeDemo\FacadeDemo\obj\Debug\FacadeDemo.pdb
+C:\Users\crtenn\Documents\Visual Studio 2017\Projects\CoreDesignPatterns\Facade\FacadeDemo\FacadeDemo\bin\Debug\FacadeDemo.exe
+C:\Users\crtenn\Documents\Visual Studio 2017\Projects\CoreDesignPatterns\Facade\FacadeDemo\FacadeDemo\bin\Debug\FacadeDemo.pdb
+C:\Users\crtenn\Documents\Visual Studio 2017\Projects\CoreDesignPatterns\Facade\FacadeDemo\FacadeDemo\obj\Debug\Facade.csprojResolveAssemblyReference.cache
+C:\Users\crtenn\Documents\Visual Studio 2017\Projects\CoreDesignPatterns\Facade\FacadeDemo\FacadeDemo\obj\Debug\Facade.csproj.CoreCompileInputs.cache
+C:\Users\crtenn\Documents\Visual Studio 2017\Projects\CoreDesignPatterns\Facade\FacadeDemo\FacadeDemo\obj\Debug\FacadeDemo.exe
+C:\Users\crtenn\Documents\Visual Studio 2017\Projects\CoreDesignPatterns\Facade\FacadeDemo\FacadeDemo\obj\Debug\FacadeDemo.pdb

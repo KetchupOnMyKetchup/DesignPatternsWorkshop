@@ -1,0 +1,12 @@
+C:\Users\crtenn\Documents\Visual Studio 2017\Projects\CoreDesignPatterns\ChainResp\bin\Debug\ChainResp.exe.config
+C:\Users\crtenn\Documents\Visual Studio 2017\Projects\CoreDesignPatterns\ChainResp\bin\Debug\ChainResp.exe
+C:\Users\crtenn\Documents\Visual Studio 2017\Projects\CoreDesignPatterns\ChainResp\bin\Debug\ChainResp.pdb
+C:\Users\crtenn\Documents\Visual Studio 2017\Projects\CoreDesignPatterns\ChainResp\obj\Debug\ChainResp.csproj.CoreCompileInputs.cache
+C:\Users\crtenn\Documents\Visual Studio 2017\Projects\CoreDesignPatterns\ChainResp\obj\Debug\ChainResp.exe
+C:\Users\crtenn\Documents\Visual Studio 2017\Projects\CoreDesignPatterns\ChainResp\obj\Debug\ChainResp.pdb
+C:\Design Patterns Workshop\Day 1\01 CoreDesignPatterns [begin]\ChainResp\bin\Debug\ChainResp.exe.config
+C:\Design Patterns Workshop\Day 1\01 CoreDesignPatterns [begin]\ChainResp\bin\Debug\ChainResp.exe
+C:\Design Patterns Workshop\Day 1\01 CoreDesignPatterns [begin]\ChainResp\bin\Debug\ChainResp.pdb
+C:\Design Patterns Workshop\Day 1\01 CoreDesignPatterns [begin]\ChainResp\obj\Debug\ChainResp.csproj.CoreCompileInputs.cache
+C:\Design Patterns Workshop\Day 1\01 CoreDesignPatterns [begin]\ChainResp\obj\Debug\ChainResp.exe
+C:\Design Patterns Workshop\Day 1\01 CoreDesignPatterns [begin]\ChainResp\obj\Debug\ChainResp.pdb

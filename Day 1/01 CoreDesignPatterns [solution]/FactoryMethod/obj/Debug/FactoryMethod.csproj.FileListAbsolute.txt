@@ -1,0 +1,12 @@
+C:\Users\crtenn\Google Drive\Microsoft\2017-2018 Q1 Work\05 OCC Design Patterns\Day 1\01 Core Design Patterns Demo\FactoryMethod\bin\Debug\FactoryMethod.exe
+C:\Users\crtenn\Google Drive\Microsoft\2017-2018 Q1 Work\05 OCC Design Patterns\Day 1\01 Core Design Patterns Demo\FactoryMethod\bin\Debug\FactoryMethod.pdb
+C:\Users\crtenn\Google Drive\Microsoft\2017-2018 Q1 Work\05 OCC Design Patterns\Day 1\01 Core Design Patterns Demo\FactoryMethod\obj\Debug\FactoryMethod.csprojResolveAssemblyReference.cache
+C:\Users\crtenn\Google Drive\Microsoft\2017-2018 Q1 Work\05 OCC Design Patterns\Day 1\01 Core Design Patterns Demo\FactoryMethod\obj\Debug\FactoryMethod.csproj.CoreCompileInputs.cache
+C:\Users\crtenn\Google Drive\Microsoft\2017-2018 Q1 Work\05 OCC Design Patterns\Day 1\01 Core Design Patterns Demo\FactoryMethod\obj\Debug\FactoryMethod.exe
+C:\Users\crtenn\Google Drive\Microsoft\2017-2018 Q1 Work\05 OCC Design Patterns\Day 1\01 Core Design Patterns Demo\FactoryMethod\obj\Debug\FactoryMethod.pdb
+C:\Users\crtenn\Documents\Visual Studio 2017\Projects\CoreDesignPatterns\FactoryMethod\bin\Debug\FactoryMethod.exe
+C:\Users\crtenn\Documents\Visual Studio 2017\Projects\CoreDesignPatterns\FactoryMethod\bin\Debug\FactoryMethod.pdb
+C:\Users\crtenn\Documents\Visual Studio 2017\Projects\CoreDesignPatterns\FactoryMethod\obj\Debug\FactoryMethod.csproj.CoreCompileInputs.cache
+C:\Users\crtenn\Documents\Visual Studio 2017\Projects\CoreDesignPatterns\FactoryMethod\obj\Debug\FactoryMethod.exe
+C:\Users\crtenn\Documents\Visual Studio 2017\Projects\CoreDesignPatterns\FactoryMethod\obj\Debug\FactoryMethod.pdb
+C:\Users\crtenn\Documents\Visual Studio 2017\Projects\CoreDesignPatterns\FactoryMethod\obj\Debug\FactoryMethod.csprojResolveAssemblyReference.cache

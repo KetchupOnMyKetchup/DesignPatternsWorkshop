@@ -1,0 +1,13 @@
+C:\Users\crtenn\Documents\Visual Studio 2017\Projects\CoreDesignPatterns\AbstractFactory\obj\Debug\AbstractFactory.csproj.CoreCompileInputs.cache
+C:\Users\crtenn\Documents\Visual Studio 2017\Projects\CoreDesignPatterns\AbstractFactory\bin\Debug\AbstractFactory.exe.config
+C:\Users\crtenn\Documents\Visual Studio 2017\Projects\CoreDesignPatterns\AbstractFactory\bin\Debug\AbstractFactory.exe
+C:\Users\crtenn\Documents\Visual Studio 2017\Projects\CoreDesignPatterns\AbstractFactory\bin\Debug\AbstractFactory.pdb
+C:\Users\crtenn\Documents\Visual Studio 2017\Projects\CoreDesignPatterns\AbstractFactory\obj\Debug\AbstractFactory.exe
+C:\Users\crtenn\Documents\Visual Studio 2017\Projects\CoreDesignPatterns\AbstractFactory\obj\Debug\AbstractFactory.pdb
+C:\Users\crtenn\Documents\Visual Studio 2017\Projects\CoreDesignPatterns\AbstractFactory\obj\Debug\AbstractFactory.csprojResolveAssemblyReference.cache
+C:\Design Patterns Workshop\Day 1\01 CoreDesignPatterns [begin]\AbstractFactory\bin\Debug\AbstractFactory.exe.config
+C:\Design Patterns Workshop\Day 1\01 CoreDesignPatterns [begin]\AbstractFactory\bin\Debug\AbstractFactory.exe
+C:\Design Patterns Workshop\Day 1\01 CoreDesignPatterns [begin]\AbstractFactory\bin\Debug\AbstractFactory.pdb
+C:\Design Patterns Workshop\Day 1\01 CoreDesignPatterns [begin]\AbstractFactory\obj\Debug\AbstractFactory.csproj.CoreCompileInputs.cache
+C:\Design Patterns Workshop\Day 1\01 CoreDesignPatterns [begin]\AbstractFactory\obj\Debug\AbstractFactory.exe
+C:\Design Patterns Workshop\Day 1\01 CoreDesignPatterns [begin]\AbstractFactory\obj\Debug\AbstractFactory.pdb

@@ -1,0 +1,13 @@
+c:\users\crtenn\documents\visual studio 2017\Projects\CoreDesignPatterns\Prototype\bin\Debug\Prototype.exe.config
+c:\users\crtenn\documents\visual studio 2017\Projects\CoreDesignPatterns\Prototype\bin\Debug\Prototype.exe
+c:\users\crtenn\documents\visual studio 2017\Projects\CoreDesignPatterns\Prototype\bin\Debug\Prototype.pdb
+c:\users\crtenn\documents\visual studio 2017\Projects\CoreDesignPatterns\Prototype\obj\Debug\Prototype.csproj.CoreCompileInputs.cache
+c:\users\crtenn\documents\visual studio 2017\Projects\CoreDesignPatterns\Prototype\obj\Debug\Prototype.exe
+c:\users\crtenn\documents\visual studio 2017\Projects\CoreDesignPatterns\Prototype\obj\Debug\Prototype.pdb
+C:\Users\crtenn\Documents\Visual Studio 2017\Projects\CoreDesignPatterns\Prototype\obj\Debug\Prototype.csprojResolveAssemblyReference.cache
+C:\Design Patterns Workshop\Day 1\01 CoreDesignPatterns [begin]\Prototype\bin\Debug\Prototype.exe.config
+C:\Design Patterns Workshop\Day 1\01 CoreDesignPatterns [begin]\Prototype\bin\Debug\Prototype.exe
+C:\Design Patterns Workshop\Day 1\01 CoreDesignPatterns [begin]\Prototype\bin\Debug\Prototype.pdb
+C:\Design Patterns Workshop\Day 1\01 CoreDesignPatterns [begin]\Prototype\obj\Debug\Prototype.csproj.CoreCompileInputs.cache
+C:\Design Patterns Workshop\Day 1\01 CoreDesignPatterns [begin]\Prototype\obj\Debug\Prototype.exe
+C:\Design Patterns Workshop\Day 1\01 CoreDesignPatterns [begin]\Prototype\obj\Debug\Prototype.pdb

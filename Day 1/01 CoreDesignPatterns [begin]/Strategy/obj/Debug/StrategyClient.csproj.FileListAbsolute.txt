@@ -1,0 +1,27 @@
+C:\Users\crtenn\Google Drive\Microsoft\2017-2018 Q1 Work\05 OCC Design Patterns\Day 1\01 Core Design Patterns Demo\Strategy\bin\Debug\Strategy.exe.config
+C:\Users\crtenn\Google Drive\Microsoft\2017-2018 Q1 Work\05 OCC Design Patterns\Day 1\01 Core Design Patterns Demo\Strategy\bin\Debug\Strategy.exe
+C:\Users\crtenn\Google Drive\Microsoft\2017-2018 Q1 Work\05 OCC Design Patterns\Day 1\01 Core Design Patterns Demo\Strategy\bin\Debug\Strategy.pdb
+C:\Users\crtenn\Google Drive\Microsoft\2017-2018 Q1 Work\05 OCC Design Patterns\Day 1\01 Core Design Patterns Demo\Strategy\bin\Debug\Strategies.dll
+C:\Users\crtenn\Google Drive\Microsoft\2017-2018 Q1 Work\05 OCC Design Patterns\Day 1\01 Core Design Patterns Demo\Strategy\bin\Debug\Strategies.pdb
+C:\Users\crtenn\Google Drive\Microsoft\2017-2018 Q1 Work\05 OCC Design Patterns\Day 1\01 Core Design Patterns Demo\Strategy\obj\Debug\StrategyClient.csprojResolveAssemblyReference.cache
+C:\Users\crtenn\Google Drive\Microsoft\2017-2018 Q1 Work\05 OCC Design Patterns\Day 1\01 Core Design Patterns Demo\Strategy\obj\Debug\StrategyClient.csproj.CoreCompileInputs.cache
+C:\Users\crtenn\Google Drive\Microsoft\2017-2018 Q1 Work\05 OCC Design Patterns\Day 1\01 Core Design Patterns Demo\Strategy\obj\Debug\Strategy.exe
+C:\Users\crtenn\Google Drive\Microsoft\2017-2018 Q1 Work\05 OCC Design Patterns\Day 1\01 Core Design Patterns Demo\Strategy\obj\Debug\Strategy.pdb
+C:\Users\crtenn\Documents\Visual Studio 2017\Projects\CoreDesignPatterns\Strategy\bin\Debug\Strategy.exe.config
+C:\Users\crtenn\Documents\Visual Studio 2017\Projects\CoreDesignPatterns\Strategy\bin\Debug\Strategy.exe
+C:\Users\crtenn\Documents\Visual Studio 2017\Projects\CoreDesignPatterns\Strategy\bin\Debug\Strategy.pdb
+C:\Users\crtenn\Documents\Visual Studio 2017\Projects\CoreDesignPatterns\Strategy\bin\Debug\Strategies.dll
+C:\Users\crtenn\Documents\Visual Studio 2017\Projects\CoreDesignPatterns\Strategy\bin\Debug\Strategies.pdb
+C:\Users\crtenn\Documents\Visual Studio 2017\Projects\CoreDesignPatterns\Strategy\obj\Debug\StrategyClient.csprojResolveAssemblyReference.cache
+C:\Users\crtenn\Documents\Visual Studio 2017\Projects\CoreDesignPatterns\Strategy\obj\Debug\StrategyClient.csproj.CoreCompileInputs.cache
+C:\Users\crtenn\Documents\Visual Studio 2017\Projects\CoreDesignPatterns\Strategy\obj\Debug\Strategy.exe
+C:\Users\crtenn\Documents\Visual Studio 2017\Projects\CoreDesignPatterns\Strategy\obj\Debug\Strategy.pdb
+C:\Design Patterns Workshop\Day 1\01 CoreDesignPatterns [begin]\Strategy\bin\Debug\Strategy.exe.config
+C:\Design Patterns Workshop\Day 1\01 CoreDesignPatterns [begin]\Strategy\bin\Debug\Strategy.exe
+C:\Design Patterns Workshop\Day 1\01 CoreDesignPatterns [begin]\Strategy\bin\Debug\Strategy.pdb
+C:\Design Patterns Workshop\Day 1\01 CoreDesignPatterns [begin]\Strategy\bin\Debug\Strategies.dll
+C:\Design Patterns Workshop\Day 1\01 CoreDesignPatterns [begin]\Strategy\bin\Debug\Strategies.pdb
+C:\Design Patterns Workshop\Day 1\01 CoreDesignPatterns [begin]\Strategy\obj\Debug\StrategyClient.csprojResolveAssemblyReference.cache
+C:\Design Patterns Workshop\Day 1\01 CoreDesignPatterns [begin]\Strategy\obj\Debug\StrategyClient.csproj.CoreCompileInputs.cache
+C:\Design Patterns Workshop\Day 1\01 CoreDesignPatterns [begin]\Strategy\obj\Debug\Strategy.exe
+C:\Design Patterns Workshop\Day 1\01 CoreDesignPatterns [begin]\Strategy\obj\Debug\Strategy.pdb

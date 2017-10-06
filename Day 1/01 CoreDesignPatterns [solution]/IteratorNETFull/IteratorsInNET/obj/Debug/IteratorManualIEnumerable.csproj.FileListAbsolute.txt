@@ -1,0 +1,6 @@
+C:\Users\crtenn\Google Drive\Microsoft\2017-2018 Q1 Work\05 OCC Design Patterns\Day 1\01 Core Design Patterns Demo\IteratorNETFull\IteratorsInNET\bin\Debug\IteratorManualIEnumerable.exe.config
+C:\Users\crtenn\Google Drive\Microsoft\2017-2018 Q1 Work\05 OCC Design Patterns\Day 1\01 Core Design Patterns Demo\IteratorNETFull\IteratorsInNET\bin\Debug\IteratorManualIEnumerable.exe
+C:\Users\crtenn\Google Drive\Microsoft\2017-2018 Q1 Work\05 OCC Design Patterns\Day 1\01 Core Design Patterns Demo\IteratorNETFull\IteratorsInNET\bin\Debug\IteratorManualIEnumerable.pdb
+C:\Users\crtenn\Google Drive\Microsoft\2017-2018 Q1 Work\05 OCC Design Patterns\Day 1\01 Core Design Patterns Demo\IteratorNETFull\IteratorsInNET\obj\Debug\IteratorManualIEnumerable.csproj.CoreCompileInputs.cache
+C:\Users\crtenn\Google Drive\Microsoft\2017-2018 Q1 Work\05 OCC Design Patterns\Day 1\01 Core Design Patterns Demo\IteratorNETFull\IteratorsInNET\obj\Debug\IteratorManualIEnumerable.exe
+C:\Users\crtenn\Google Drive\Microsoft\2017-2018 Q1 Work\05 OCC Design Patterns\Day 1\01 Core Design Patterns Demo\IteratorNETFull\IteratorsInNET\obj\Debug\IteratorManualIEnumerable.pdb

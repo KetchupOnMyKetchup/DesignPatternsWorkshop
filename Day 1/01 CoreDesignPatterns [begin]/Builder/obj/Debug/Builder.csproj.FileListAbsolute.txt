@@ -1,0 +1,13 @@
+c:\users\crtenn\documents\visual studio 2017\Projects\CoreDesignPatterns\Builder\bin\Debug\Builder.exe.config
+c:\users\crtenn\documents\visual studio 2017\Projects\CoreDesignPatterns\Builder\bin\Debug\Builder.exe
+c:\users\crtenn\documents\visual studio 2017\Projects\CoreDesignPatterns\Builder\bin\Debug\Builder.pdb
+c:\users\crtenn\documents\visual studio 2017\Projects\CoreDesignPatterns\Builder\obj\Debug\Builder.csproj.CoreCompileInputs.cache
+c:\users\crtenn\documents\visual studio 2017\Projects\CoreDesignPatterns\Builder\obj\Debug\Builder.exe
+c:\users\crtenn\documents\visual studio 2017\Projects\CoreDesignPatterns\Builder\obj\Debug\Builder.pdb
+C:\Users\crtenn\Documents\Visual Studio 2017\Projects\CoreDesignPatterns\Builder\obj\Debug\Builder.csprojResolveAssemblyReference.cache
+C:\Design Patterns Workshop\Day 1\01 CoreDesignPatterns [begin]\Builder\bin\Debug\Builder.exe.config
+C:\Design Patterns Workshop\Day 1\01 CoreDesignPatterns [begin]\Builder\bin\Debug\Builder.exe
+C:\Design Patterns Workshop\Day 1\01 CoreDesignPatterns [begin]\Builder\bin\Debug\Builder.pdb
+C:\Design Patterns Workshop\Day 1\01 CoreDesignPatterns [begin]\Builder\obj\Debug\Builder.csproj.CoreCompileInputs.cache
+C:\Design Patterns Workshop\Day 1\01 CoreDesignPatterns [begin]\Builder\obj\Debug\Builder.exe
+C:\Design Patterns Workshop\Day 1\01 CoreDesignPatterns [begin]\Builder\obj\Debug\Builder.pdb

@@ -1,0 +1,18 @@
+C:\Users\crtenn\Google Drive\Microsoft\2017-2018 Q1 Work\05 OCC Design Patterns\Day 1\01 Core Design Patterns Demo\IteratorNETSimple\NETSimpleIterator\bin\Debug\IteratorSimple.exe.config
+C:\Users\crtenn\Google Drive\Microsoft\2017-2018 Q1 Work\05 OCC Design Patterns\Day 1\01 Core Design Patterns Demo\IteratorNETSimple\NETSimpleIterator\bin\Debug\IteratorSimple.exe
+C:\Users\crtenn\Google Drive\Microsoft\2017-2018 Q1 Work\05 OCC Design Patterns\Day 1\01 Core Design Patterns Demo\IteratorNETSimple\NETSimpleIterator\bin\Debug\IteratorSimple.pdb
+C:\Users\crtenn\Google Drive\Microsoft\2017-2018 Q1 Work\05 OCC Design Patterns\Day 1\01 Core Design Patterns Demo\IteratorNETSimple\NETSimpleIterator\obj\Debug\Iterator-Simple.csproj.CoreCompileInputs.cache
+C:\Users\crtenn\Google Drive\Microsoft\2017-2018 Q1 Work\05 OCC Design Patterns\Day 1\01 Core Design Patterns Demo\IteratorNETSimple\NETSimpleIterator\obj\Debug\IteratorSimple.exe
+C:\Users\crtenn\Google Drive\Microsoft\2017-2018 Q1 Work\05 OCC Design Patterns\Day 1\01 Core Design Patterns Demo\IteratorNETSimple\NETSimpleIterator\obj\Debug\IteratorSimple.pdb
+C:\Users\crtenn\Documents\Visual Studio 2017\Projects\CoreDesignPatterns\IteratorNETSimple\NETSimpleIterator\bin\Debug\IteratorSimple.exe.config
+C:\Users\crtenn\Documents\Visual Studio 2017\Projects\CoreDesignPatterns\IteratorNETSimple\NETSimpleIterator\bin\Debug\IteratorSimple.exe
+C:\Users\crtenn\Documents\Visual Studio 2017\Projects\CoreDesignPatterns\IteratorNETSimple\NETSimpleIterator\bin\Debug\IteratorSimple.pdb
+C:\Users\crtenn\Documents\Visual Studio 2017\Projects\CoreDesignPatterns\IteratorNETSimple\NETSimpleIterator\obj\Debug\Iterator-Simple.csproj.CoreCompileInputs.cache
+C:\Users\crtenn\Documents\Visual Studio 2017\Projects\CoreDesignPatterns\IteratorNETSimple\NETSimpleIterator\obj\Debug\IteratorSimple.exe
+C:\Users\crtenn\Documents\Visual Studio 2017\Projects\CoreDesignPatterns\IteratorNETSimple\NETSimpleIterator\obj\Debug\IteratorSimple.pdb
+C:\Design Patterns Workshop\Day 1\01 CoreDesignPatterns [begin]\IteratorNETSimple\NETSimpleIterator\bin\Debug\IteratorSimple.exe.config
+C:\Design Patterns Workshop\Day 1\01 CoreDesignPatterns [begin]\IteratorNETSimple\NETSimpleIterator\bin\Debug\IteratorSimple.exe
+C:\Design Patterns Workshop\Day 1\01 CoreDesignPatterns [begin]\IteratorNETSimple\NETSimpleIterator\bin\Debug\IteratorSimple.pdb
+C:\Design Patterns Workshop\Day 1\01 CoreDesignPatterns [begin]\IteratorNETSimple\NETSimpleIterator\obj\Debug\Iterator-Simple.csproj.CoreCompileInputs.cache
+C:\Design Patterns Workshop\Day 1\01 CoreDesignPatterns [begin]\IteratorNETSimple\NETSimpleIterator\obj\Debug\IteratorSimple.exe
+C:\Design Patterns Workshop\Day 1\01 CoreDesignPatterns [begin]\IteratorNETSimple\NETSimpleIterator\obj\Debug\IteratorSimple.pdb

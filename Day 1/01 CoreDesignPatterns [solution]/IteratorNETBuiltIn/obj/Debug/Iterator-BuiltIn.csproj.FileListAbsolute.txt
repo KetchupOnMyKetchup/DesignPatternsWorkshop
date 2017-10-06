@@ -1,0 +1,6 @@
+C:\Users\crtenn\Google Drive\Microsoft\2017-2018 Q1 Work\05 OCC Design Patterns\Day 1\01 Core Design Patterns Demo\IteratorNETBuiltIn\bin\Debug\IteratorBuiltIn.exe.config
+C:\Users\crtenn\Google Drive\Microsoft\2017-2018 Q1 Work\05 OCC Design Patterns\Day 1\01 Core Design Patterns Demo\IteratorNETBuiltIn\bin\Debug\IteratorBuiltIn.exe
+C:\Users\crtenn\Google Drive\Microsoft\2017-2018 Q1 Work\05 OCC Design Patterns\Day 1\01 Core Design Patterns Demo\IteratorNETBuiltIn\bin\Debug\IteratorBuiltIn.pdb
+C:\Users\crtenn\Google Drive\Microsoft\2017-2018 Q1 Work\05 OCC Design Patterns\Day 1\01 Core Design Patterns Demo\IteratorNETBuiltIn\obj\Debug\Iterator-BuiltIn.csproj.CoreCompileInputs.cache
+C:\Users\crtenn\Google Drive\Microsoft\2017-2018 Q1 Work\05 OCC Design Patterns\Day 1\01 Core Design Patterns Demo\IteratorNETBuiltIn\obj\Debug\IteratorBuiltIn.exe
+C:\Users\crtenn\Google Drive\Microsoft\2017-2018 Q1 Work\05 OCC Design Patterns\Day 1\01 Core Design Patterns Demo\IteratorNETBuiltIn\obj\Debug\IteratorBuiltIn.pdb

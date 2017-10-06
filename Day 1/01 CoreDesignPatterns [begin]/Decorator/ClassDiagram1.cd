@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Decorator.Car" Collapsed="true">
+    <Position X="3.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Car.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Decorator.CarOptionDecorator" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAgAAAEAAAAABAAAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>CarOptionDecorator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Decorator.FerrariSpider" Collapsed="true">
+    <Position X="5.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAgAAAEAAAAABAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FerrariSpider.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Decorator.OptionDecoratorAlloyWheels" Collapsed="true">
+    <Position X="2.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAgAAAEAAAAABAAAAQAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>OptionDecoratorAlloyWheels.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Decorator.OptionDecoratorLeather" Collapsed="true">
+    <Position X="5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAgAAAEAAAAABAAAAQAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>OptionDecoratorLeather.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Decorator.OptionDecoratorSound" Collapsed="true">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAgAAAEAAAAABAAAAQAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>OptionDecoratorSound.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Decorator.Program" Collapsed="true">
+    <Position X="9.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

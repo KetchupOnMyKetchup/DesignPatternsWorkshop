@@ -1,0 +1,18 @@
+C:\Users\crtenn\Google Drive\Microsoft\2017-2018 Q1 Work\05 OCC Design Patterns\Day 1\01 Core Design Patterns Demo\Strategies\bin\Debug\Strategies.dll
+C:\Users\crtenn\Google Drive\Microsoft\2017-2018 Q1 Work\05 OCC Design Patterns\Day 1\01 Core Design Patterns Demo\Strategies\bin\Debug\Strategies.pdb
+C:\Users\crtenn\Google Drive\Microsoft\2017-2018 Q1 Work\05 OCC Design Patterns\Day 1\01 Core Design Patterns Demo\Strategies\obj\Debug\Strategies.csprojResolveAssemblyReference.cache
+C:\Users\crtenn\Google Drive\Microsoft\2017-2018 Q1 Work\05 OCC Design Patterns\Day 1\01 Core Design Patterns Demo\Strategies\obj\Debug\Strategies.csproj.CoreCompileInputs.cache
+C:\Users\crtenn\Google Drive\Microsoft\2017-2018 Q1 Work\05 OCC Design Patterns\Day 1\01 Core Design Patterns Demo\Strategies\obj\Debug\Strategies.dll
+C:\Users\crtenn\Google Drive\Microsoft\2017-2018 Q1 Work\05 OCC Design Patterns\Day 1\01 Core Design Patterns Demo\Strategies\obj\Debug\Strategies.pdb
+C:\Users\crtenn\Documents\Visual Studio 2017\Projects\CoreDesignPatterns\Strategies\bin\Debug\Strategies.dll
+C:\Users\crtenn\Documents\Visual Studio 2017\Projects\CoreDesignPatterns\Strategies\bin\Debug\Strategies.pdb
+C:\Users\crtenn\Documents\Visual Studio 2017\Projects\CoreDesignPatterns\Strategies\obj\Debug\Strategies.csprojResolveAssemblyReference.cache
+C:\Users\crtenn\Documents\Visual Studio 2017\Projects\CoreDesignPatterns\Strategies\obj\Debug\Strategies.csproj.CoreCompileInputs.cache
+C:\Users\crtenn\Documents\Visual Studio 2017\Projects\CoreDesignPatterns\Strategies\obj\Debug\Strategies.dll
+C:\Users\crtenn\Documents\Visual Studio 2017\Projects\CoreDesignPatterns\Strategies\obj\Debug\Strategies.pdb
+C:\Design Patterns Workshop\Day 1\01 CoreDesignPatterns [begin]\Strategies\bin\Debug\Strategies.dll
+C:\Design Patterns Workshop\Day 1\01 CoreDesignPatterns [begin]\Strategies\bin\Debug\Strategies.pdb
+C:\Design Patterns Workshop\Day 1\01 CoreDesignPatterns [begin]\Strategies\obj\Debug\Strategies.csprojResolveAssemblyReference.cache
+C:\Design Patterns Workshop\Day 1\01 CoreDesignPatterns [begin]\Strategies\obj\Debug\Strategies.csproj.CoreCompileInputs.cache
+C:\Design Patterns Workshop\Day 1\01 CoreDesignPatterns [begin]\Strategies\obj\Debug\Strategies.dll
+C:\Design Patterns Workshop\Day 1\01 CoreDesignPatterns [begin]\Strategies\obj\Debug\Strategies.pdb

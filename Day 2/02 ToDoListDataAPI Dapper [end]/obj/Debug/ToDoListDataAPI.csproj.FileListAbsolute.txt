@@ -59,3 +59,20 @@ C:\Design Patterns Workshop\Day 2\02 ToDoListDataAPI [end]\obj\Debug\ToDoListDat
 C:\Design Patterns Workshop\Day 2\02 ToDoListDataAPI [end]\obj\Debug\ToDoListDataAPI.csproj.CoreCompileInputs.cache
 C:\Design Patterns Workshop\Day 2\02 ToDoListDataAPI [end]\obj\Debug\ToDoListDataAPI.dll
 C:\Design Patterns Workshop\Day 2\02 ToDoListDataAPI [end]\obj\Debug\ToDoListDataAPI.pdb
+C:\Design Patterns Workshop\Day 2\02 ToDoListDataAPI Dapper [end]\bin\ToDoListDataAPI.dll.config
+C:\Design Patterns Workshop\Day 2\02 ToDoListDataAPI Dapper [end]\bin\ToDoListDataAPI.dll
+C:\Design Patterns Workshop\Day 2\02 ToDoListDataAPI Dapper [end]\bin\ToDoListDataAPI.pdb
+C:\Design Patterns Workshop\Day 2\02 ToDoListDataAPI Dapper [end]\bin\Dapper.dll
+C:\Design Patterns Workshop\Day 2\02 ToDoListDataAPI Dapper [end]\bin\Newtonsoft.Json.dll
+C:\Design Patterns Workshop\Day 2\02 ToDoListDataAPI Dapper [end]\bin\System.Net.Http.Formatting.dll
+C:\Design Patterns Workshop\Day 2\02 ToDoListDataAPI Dapper [end]\bin\System.Web.Http.dll
+C:\Design Patterns Workshop\Day 2\02 ToDoListDataAPI Dapper [end]\bin\System.Web.Http.WebHost.dll
+C:\Design Patterns Workshop\Day 2\02 ToDoListDataAPI Dapper [end]\bin\Dapper.xml
+C:\Design Patterns Workshop\Day 2\02 ToDoListDataAPI Dapper [end]\bin\Newtonsoft.Json.xml
+C:\Design Patterns Workshop\Day 2\02 ToDoListDataAPI Dapper [end]\bin\System.Net.Http.Formatting.xml
+C:\Design Patterns Workshop\Day 2\02 ToDoListDataAPI Dapper [end]\bin\System.Web.Http.xml
+C:\Design Patterns Workshop\Day 2\02 ToDoListDataAPI Dapper [end]\bin\System.Web.Http.WebHost.xml
+C:\Design Patterns Workshop\Day 2\02 ToDoListDataAPI Dapper [end]\obj\Debug\ToDoListDataAPI.csprojResolveAssemblyReference.cache
+C:\Design Patterns Workshop\Day 2\02 ToDoListDataAPI Dapper [end]\obj\Debug\ToDoListDataAPI.csproj.CoreCompileInputs.cache
+C:\Design Patterns Workshop\Day 2\02 ToDoListDataAPI Dapper [end]\obj\Debug\ToDoListDataAPI.dll
+C:\Design Patterns Workshop\Day 2\02 ToDoListDataAPI Dapper [end]\obj\Debug\ToDoListDataAPI.pdb
